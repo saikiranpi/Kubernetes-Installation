@@ -1,5 +1,5 @@
 # Terraform to Bulding Kubernetes Cluster using EC2 instances
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/saikiran-p-a0243569/]
 [![Twitter][twitter-shield]][twittwe-url]
 [![Twitter][github-shield]][github-url]
 
