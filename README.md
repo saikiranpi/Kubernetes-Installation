@@ -1,7 +1,8 @@
 # Terraform to Bulding Kubernetes Cluster using EC2 instances
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/saikiran-p-a0243569/]
-[![Twitter][twitter-shield]][twittwe-url]
-[![Twitter][github-shield]][github-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![DockerHub][Dockerhub-shield]][docker-url]
+[![GitHub][github-shield]][github-url]
+
 
 I build this project to create my own lab for [Kuberntes](https://kubernetes.io/) cluster on AWS cloud using EC2 instances. I found [Terraform](https://www.terraform.io) is best tool to create my K8S lab fastly with one command 🚀.
 <p align="center">
@@ -93,8 +94,8 @@ Project Link: [https://github.com/Ahmad-Faqehi/Terraform-Bulding-K8S](https://gi
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ahmad-faqehi
-[twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
-[twittwe-url]: https://twitter.com/A_F775
+[linkedin-url]: https://www.linkedin.com/in/saikiran-p-a0243569/
+[docker-shield]: https://img.shields.io/badge/-docker-black.svg?style=for-the-badge&logo=docker&colorB=555
+[docker-url]: https://hub.docker.com/u/kiran2361993
 [github-shield]: https://img.shields.io/badge/-github-black.svg?style=for-the-badge&logo=github&colorB=555
-[github-url]: https://github.com/Ahmad-Faqehi
+[github-url]: https://github.com/saikiranpi
