@@ -1,6 +1,5 @@
 # Terraform to Bulding Kubernetes Cluster using EC2 instances
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![DockerHub][Dockerhub-shield]][docker-url]
 [![GitHub][github-shield]][github-url]
 
 
@@ -82,13 +81,6 @@ To destroy the hole resources that created after applying the script, just run t
 terraform destroy
 ```
 
-
-<!-- CONTACT -->
-## Contact Me
-
-Ahmad Faqehi - [iAhmad.info](https://iAhmad.info) - alfaqehi775@hotmail.com
-
-Project Link: [https://github.com/Ahmad-Faqehi/Terraform-Bulding-K8S](https://github.com/Ahmad-Faqehi/Terraform-Bulding-K8S)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
